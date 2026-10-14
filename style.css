@@ -19,5 +19,11 @@
 
 }
 .video{
-    width: ;
+    width: 565px ;
+    height: 316px;
+    margin: 0 auto;
+}
+.audio{
+    width: 565px ;
+    margin: 0 auto;
 }
