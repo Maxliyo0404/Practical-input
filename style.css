@@ -9,7 +9,7 @@
    
 }
 .videos{
-    width: 1200px;
+    width: 500px;
     background: wheat;
     margin: 0 auto;
     margin-top: 50px;
@@ -19,11 +19,11 @@
 
 }
 .video{
-    width: 565px ;
-    height: 316px;
+    width: 300px ;
+    height:250px;
     margin: 0 auto;
 }
 .audio{
-    width: 565px ;
+    width: 300px ;
     margin: 0 auto;
 }
